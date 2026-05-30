@@ -10,7 +10,7 @@ FROST listens to your microphone, understands your command, carries it out **wit
 
 ---
 
-## 📦 Modules used (school requirement: 3)
+## 📦 Modules used (requirement: 3)
 
 | Module | Role |
 |---|---|
@@ -69,12 +69,12 @@ python F.R.O.S.T.py
 
 You will see:
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║   F.R.O.S.T — Snowflake Technologies AI Assistant              ║
-║   Fully Responsive Operations & Search Terminal                 ║
-║   Control Panel → http://localhost:5000                         ║
-║   Press  Ctrl+C  to quit                                        ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║   F.R.O.S.T — Snowflake Technologies AI Assistant         ║
+║   Fully Responsive Operations & Search Terminal           ║
+║   Control Panel → http://localhost:5000                   ║
+║   Press  Ctrl+C  to quit                                  ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 Open **http://localhost:5000** in your browser to see the Snowflake Technologies control panel.
@@ -122,7 +122,7 @@ Just say these — no button pressing needed! You can prefix any command with **
 
 ```
 frost/
-├── jarvis.py          ← Main application (all logic in one file)
+├── F.R.O.S.T.py          ← Main application (all logic in one file)
 ├── requirements.txt   ← Python dependencies
 ├── README.md          ← This file
 └── screenshots/       ← Auto-created when you take a screenshot
@@ -132,7 +132,7 @@ frost/
 
 ## ⚙️ Configuration
 
-At the top of `jarvis.py` you can change:
+At the top of `F.R.O.S.T.py` you can change:
 
 ```python
 PORT             = 5000    # Web panel port
@@ -169,4 +169,4 @@ MIT — feel free to use, modify and share.
 
 ---
 
-*Snowflake Technologies — Built with Python 3.12, Selenium, BeautifulSoup & PyAutoGUI.*
+*Snowflake Technologies — Built with Python 3.13.13, Selenium, BeautifulSoup & PyAutoGUI.*
