@@ -25,7 +25,7 @@ Plus: `flask` (control panel), `SpeechRecognition` (microphone → text), `pytts
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/frost.git
+git clone https://github.com/Snowflake-Technologies/F.R.O.S.T.git
 cd frost
 ```
 
