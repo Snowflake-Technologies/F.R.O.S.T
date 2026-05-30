@@ -1,5 +1,5 @@
 # ❄️ F.R.O.S.T COMING SOON!
-<div alignment="center"></div>
+<div alignment="center">
 
 ### Fully Responsive Operations & Search Terminal
 **Voice-Controlled AI Desktop Assistant — Snowflake Technologies**
