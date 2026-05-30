@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ## ▶️ Running FROST
 
 ```bash
-python jarvis.py
+python F.R.O.S.T.py
 ```
 
 You will see:
